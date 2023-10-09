@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "oNm5ARxNEV9wC8hkWykZAcdT+vmU/slTKUSjM1QLj2aESgFr1xCNtdjy7qmY9OOZvcvfLVssRf47kBDjfjckRA==",
+  "success": true,
+  "projectFilePath": "F:\\Emanagment\\Emanagment\\Emanagment\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.management\\7.0.2\\system.management.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
